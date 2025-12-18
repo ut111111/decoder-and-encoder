@@ -1,1 +1,1 @@
-# A basic fun project for begineer for in python
+# A basic fun project for begineer in python
